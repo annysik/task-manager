@@ -53,8 +53,8 @@ const Register = () => {
               Manage all your task in one place!
             </span>
             <p className="flex flex-col gap-0 text-4xl font-black text-center text-blue-700 md:gap-4 md:text-6xl 2xl:text-7xl dark:text-gray-400">
-              <span>Web-based</span>
-              <span>Task Manager</span>
+              <span>Web-Based</span>
+              <span>Task Manager</span> 
             </p>
 
             <div className="cell">
